@@ -1,0 +1,3 @@
+[submodule "learngitw"]
+	path = learngitw
+	url = git@github.com:wangjiann/learngitw.git
